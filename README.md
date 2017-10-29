@@ -18,7 +18,7 @@ You can build by this layout.
  
 ## 4.Create new page.
  
-## 5.Upload *.jon in new page.
+## 5.Upload *.json in new page.
  
      You should upload it by builder.
      
